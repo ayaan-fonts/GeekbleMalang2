@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'GeekbleMalang2';
+	font-weight: 400;
+	font-display: swap;
+	src: local('GeekbleMalang2 Regular'), url('./woff2/GeekbleMalang2-Regular.woff2') format('woff2'), url('./woff/GeekbleMalang2-Regular.woff') format('woff');
+}
